@@ -4,3 +4,7 @@
 - Andy Clemente Gago
 - Javier Arias Sotolongo
 - Manuel David Montero Crespo
+
+## Estado del Proyecto
+
+✅ Este proyecto está completo
